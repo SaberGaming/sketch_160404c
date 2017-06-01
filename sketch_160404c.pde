@@ -5,7 +5,7 @@ void setup (){
 void draw (){
 ellipse(350,350,300,300);
 fill(85,255,000,50);
-text("Jace");
+text("Jace",100,100);
 ellipse(150,350,300,300);
 fill(102,0,255,50);
 
